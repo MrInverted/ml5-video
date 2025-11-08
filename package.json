@@ -12,9 +12,8 @@
   "dependencies": {
     "@huggingface/transformers": "^3.7.6",
     "@tailwindcss/vite": "^4.1.17",
-    "@tensorflow/tfjs": "^3.21.0",
     "clsx": "^2.1.1",
-    "ml5": "^0.12.2",
+    "ml5": "0.12.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hot-toast": "^2.6.0",
